@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             ChartsAndroidTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "Earth",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
